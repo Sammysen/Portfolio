@@ -1995,5 +1995,6 @@ a {
 }
 
 .grad {
-    background-image: linear-gradient(45deg,#01005a,#8300c5) !important;
+    background-image:   linear-gradient(45deg,#01005a,#080809) !important;
+    
 }
